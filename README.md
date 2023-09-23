@@ -7,6 +7,7 @@ if this function is executed successfully it will return the quantity of charact
 --------------------------------------------------------
 Format of the argument string :
 let's break down the format of argument string used in printf function into 
+---------------------------------
 1) fixed characters: they are ragular characters like letters , numbers, symbols that aren't preceded by a % symbol.
 --------------------------------
 2)conversion specifications :it starts with % and then ends with a character that tells the printf function what to do with the following provided argument.
